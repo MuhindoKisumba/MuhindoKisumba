@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ingénieur Système & Réseau | Expert en 👉🏾 PostgreSQL | Data Engineer | Big Data | DBA | Cloud.
+Expert Cybersécurité & PostgreSQL | CEH • CISSP • CompTIA Security+ | Sécurité Réseaux, Systèmes & Bases de Données | Protection des Infrastructures Critiques
 
 
 ## 🌐 Socials:
