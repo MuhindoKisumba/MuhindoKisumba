@@ -1,5 +1,6 @@
 # 💫 About Me:
-Expert Cybersécurité & PostgreSQL | CEH • CISSP • CompTIA Security+ | Sécurité Réseaux, Systèmes & Bases de Données | Protection des Infrastructures Critiques
+
+Master en Informatique de Gestion | Expert en 👉🏾 🌐 Réseaux Informatiques | 🔐 Cybersécurité🐧 Linux | 🐍 Python | 🗄 PostgreSQL • SQL Server | 📊 Power BI
 
 
 ## 🌐 Socials:
